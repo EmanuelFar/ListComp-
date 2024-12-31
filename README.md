@@ -52,7 +52,7 @@ sudo apt-get install build-essential flex bison
 Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ListComp-.git
+git clone https://github.com/EmanuelFar/ListComp-.git
 cd ListComp-
 
 ```
