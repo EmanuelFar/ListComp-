@@ -19,9 +19,9 @@ The **List Comp Project** is a parser and compiler for handling list comprehensi
 ## Background
 How is it Implemented?
 
-I Use 2 Data structures, First one is the infamous Expression Tree in order to be able to store the expression of the list comprehension (e.g 'x * 2' for x ...) and evaluate the tree with a certain value.
+I Use 2 Data structures, First one is an Expression Tree in order to be able to store the expression of the list comprehension (e.g 'x * 2' for x ...) and evaluate the tree with a certain value.
 
-Second is...you guessed right! the list of the l-i-s-t comprehension.
+Second is...you guessed right! the list of the list comprehension.
 
 Of course Yacc helps a lot when it comes to building the tree. 
 
